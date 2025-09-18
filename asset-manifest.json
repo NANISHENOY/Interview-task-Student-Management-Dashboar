@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Interview-task-Student-Management-Dashboar/static/css/main.7ed7df80.css",
+    "main.js": "/Interview-task-Student-Management-Dashboar/static/js/main.2d698703.js",
+    "static/js/453.8c5f66de.chunk.js": "/Interview-task-Student-Management-Dashboar/static/js/453.8c5f66de.chunk.js",
+    "index.html": "/Interview-task-Student-Management-Dashboar/index.html",
+    "main.7ed7df80.css.map": "/Interview-task-Student-Management-Dashboar/static/css/main.7ed7df80.css.map",
+    "main.2d698703.js.map": "/Interview-task-Student-Management-Dashboar/static/js/main.2d698703.js.map",
+    "453.8c5f66de.chunk.js.map": "/Interview-task-Student-Management-Dashboar/static/js/453.8c5f66de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed7df80.css",
+    "static/js/main.2d698703.js"
+  ]
+}
